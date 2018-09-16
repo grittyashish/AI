@@ -1,1 +1,1 @@
-**Machine Learning** codes written in the course of learning machine learning
+**Machine Learning** codes written during the course of learning machine learning
